@@ -2,7 +2,7 @@ streamlit
 langchain
 langchain-openai
 langchain_groq
-beautifulsoup4  # para bs4
+beautifulsoup4 
 langchain_chroma
 langchain_community
 langchain_core
