@@ -1,3 +1,14 @@
 streamlit
 langchain
 langchain-openai
+langchain_groq
+beautifulsoup4  # para bs4
+langchain_chroma
+langchain_community
+langchain_core
+langchain_openai
+langchain_text_splitters
+
+# Dependencias adicionales necesarias
+openai  # Si estás usando modelos de OpenAI
+chromadb  # Base de datos para Chroma
