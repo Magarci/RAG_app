@@ -11,7 +11,8 @@ from langchain_core.runnables import RunnablePassthrough
 from langchain_openai import OpenAIEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
-pip install --upgrade protobuf
+os.system('pip install --upgrade protobuf opentelemetry-api opentelemetry-sdk opentelemetry-exporter-otlp')
+
 
 # Load, chunk and index the contents of the blog.
 loader = WebBaseLoader(
