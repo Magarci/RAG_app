@@ -9,6 +9,3 @@ langchain_core
 langchain_openai
 langchain_text_splitters
 
-# Dependencias adicionales necesarias
-openai  # Si estás usando modelos de OpenAI
-chromadb  # Base de datos para Chroma
